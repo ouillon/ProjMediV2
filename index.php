@@ -18,7 +18,7 @@
         <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 
         <!-- Custom styles for this template -->
-        <link href="signin.css" rel="stylesheet">
+        <link href="css/signin.css" rel="stylesheet">
 
         <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
         <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -34,6 +34,7 @@
     <body>
 
         <div class="container">
+            <h3> PROJET MEDICAMENT </h3>
             <div class="col-xs-12 col-sm-7"> 
                 <!-- Partie gauche --> 
                 <div class="rubrique"> 
